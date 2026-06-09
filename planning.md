@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+Course and professor reviews
+
 ---
 
 ## Documents
@@ -20,16 +22,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | https://www.ratemycourses.io | Student review for PHYS 121 Mechanics course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/phys121 |
+| 2 | https://www.ratemycourses.io | Student review for ECON 200 Introduction to Microeconomics course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/econ200 |
+| 3 | https://www.ratemycourses.io | Student review for MATH 125 Calculus with Analytic Geometry II course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/math125 |
+| 4 | https://www.ratemycourses.io | Student review for MATH 126 Calculus with Analytic Geometry III course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/math125 | https://www.ratemycourses.io/uw/course/math126 |
+| 5 | https://www.ratemycourses.io | Student review for  Computer Programming II course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/math125 | https://www.ratemycourses.io/uw/course/cse143 |
+| 6 | https://www.ratemycourses.io | Student review for CSE 142	Computer Programming I course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/math125 | https://www.ratemycourses.io/uw/course/cse142 |
+| 7 | https://www.ratemycourses.io | Student review for ENGL 131	Composition: Exposition course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/math125 | https://www.ratemycourses.io/uw/course/engl131 |
+| 8 | https://www.ratemycourses.io | Student review for PSYCH 210 The Diversity of Human Sexuality course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/math125 | https://www.ratemycourses.io/uw/course/psych210 |
+| 9 | https://www.ratemycourses.io | Student review for CSE 373	Data Structures and Algorithms course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/math125 | https://www.ratemycourses.io/uw/course/cse373 |
+| 10 | https://www.ratemycourses.io | Student review for STAT 311 Elements of Statistical Methods course. It is from the University of Washington. | https://www.ratemycourses.io/uw/course/math125 | https://www.ratemycourses.io/uw/course/stat311 |
 
 ---
 
