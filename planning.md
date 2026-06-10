@@ -43,11 +43,11 @@ Course and professor reviews
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-
+250 tokens
 **Overlap:**
-
+0 to 1
 **Reasoning:**
-
+The student reviews are short in length (100-300 words), organized, and tend to be more concise, therefore chunk size does not require as many tokens and minimum to no overlap is needed to get the full context.
 ---
 
 ## Retrieval Approach
@@ -59,11 +59,11 @@ Course and professor reviews
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+text-embedding-3-large
 **Top-k:**
-
+5 to 6 chunks
 **Production tradeoff reflection:**
-
+If costs weren't a factor, improving accuracy would be the highest priority.
 ---
 
 ## Evaluation Plan
@@ -75,11 +75,11 @@ Course and professor reviews
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Does the professor mostly read from slides, or do they engage with the students? | The professor uses slides as a guide but they mostly interact with the students. Students often mention that they feel engaged during lectures. |
+| 2 | How much time do students typically need to prepare for the midterm and final exam? | It depends on the students' study habits. Most students report spending 6–10 hours preparing for each midterm and 12–20 hours for the final exam. |
+| 3 | What happens if a student misses several lectures? | Students say it's possible to catch up using posted slides and notes, but makes it harder to follow the class. |
+| 4 | What is the average time it takes the professor to respond to emails? | Students report receiving a response within 24 hours, but may take longer during holidays or around exam periods. |
+| 5 | How do students describe their experiences during office hours? | Students describe office hours as very welcoming and helpful. The professor takes time to make sure the student understands the course lessons. |
 
 ---
 
@@ -89,9 +89,9 @@ Course and professor reviews
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Returns biased results.
 
-2.
+2. Used information and data is outdated.
 
 ---
 
@@ -102,6 +102,51 @@ Course and professor reviews
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+┌─────────────────────────────┐
+│     Document Ingestion      │
+├─────────────────────────────┤
+│ Sources:                    │
+│ • Course Reviews            │
+│ • Professor Reviews         │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│          Chunking           │
+├─────────────────────────────┤
+│ Split reviews into          │
+│ semantic chunks             │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│  Embedding + Vector Store   │
+├─────────────────────────────┤
+│ Tools:                      │
+│ • all-MiniLM-L6-v2          │
+│ • ChromaDB                  │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│         Retrieval           │
+├─────────────────────────────┤
+│ Semantic and keyword match  │
+│ Tool: ChromaDB              │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│         Generation          │
+├─────────────────────────────┤
+│ Grounded answer with        │
+│ citations to the original   │
+│ review page                 │
+│                             │
+│ LLM: Groq                   │
+│ (llama-3.3-70b-versatile)   │
+└─────────────────────────────┘
 
 ---
 
@@ -116,6 +161,8 @@ Course and professor reviews
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+
+I will use Claude to help implement each stage of the RAG pipeline. I will provide the project requirements and sample professor and course review data and ask Claude for code to clean and structure the required documents. For chunking, embeddings, retrieval, and generation, I will provide the Architecture including chosen tools: LangChain, all-MiniLM-L6-v2, ChromaDB, and Groq, and ask for code that follows my specifications. I will verify the output by testing each component, inspecting retrieved chunks, and ensuring generated answers are grounded in the retrieved reviews with proper source citations.
 
 **Milestone 3 — Ingestion and chunking:**
 
