@@ -1,0 +1,1064 @@
+[
+  {
+    "chunk_id": "CSE_142-r0-c0",
+    "course": "CSE 142",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse142",
+    "professor": "Natsuhara",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 2,
+      "difficulty": 3,
+      "interest": 2,
+      "usefulness": 2
+    },
+    "grade": "C+",
+    "workload": "15hrs/week",
+    "textbook": "No",
+    "text": "Admittedly, her lectures are good. The grading system in SP21 is different from usual; It adopted the ESNU system for the first time(E-excellent, S-satisfactory, N-not yet, U-unread). There are 8 projects, and students were required to get 6 Es in each dimention, or they would be likely to receive a grade below 3.5. You need to be perfect in one dimention to receive an E, if there is even one minor mistake, you will receive a lower S grade. The worst part is, both making 1 and 5 mistakes result in an S, so even I corrected most errors and made a resubmission, many times my grades did not change and still be S. Finally, the instructor intentionally divide everyone's grades apart, although there is not so much difference in students' ability. If CSE 142 is not a required course for you, do not take it. If you just want to gain some fundamental programming knowledge, java is not the best programming language--C and C++ are better options, and you may find some online resources about them. If you decide to take 142, be prepared to receive a much lower grade than expected.",
+    "tokens": 193
+  },
+  {
+    "chunk_id": "CSE_142-r0-c1",
+    "course": "CSE 142",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse142",
+    "professor": "Natsuhara",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 2,
+      "difficulty": 3,
+      "interest": 2,
+      "usefulness": 2
+    },
+    "grade": "C+",
+    "workload": "15hrs/week",
+    "textbook": "No",
+    "text": "If you decide to take 142, be prepared to receive a much lower grade than expected.",
+    "tokens": 16
+  },
+  {
+    "chunk_id": "CSE_142-r1-c0",
+    "course": "CSE 142",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse142",
+    "professor": "Stuart Reges",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 2,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "10hrs/week",
+    "textbook": "Optional",
+    "text": "The material is very interesting and useful, and the lectures are designed for people like me who had never written a line of code before taking the class. However, the curve in this class is kind of harsh, and the grading is very nitpicky. I think it's unfortunate that an introductory course punishes GPA of people who just want to see what programming is like. Do your homework early so you have time to sit and stare at your code until you hopefully find something you can correct. Use practice-it before exams when that becomes a thing again. If you just want an introduction to programming and have no plans of pursuing a CS-related major, maybe consider CSE 160 instead. Reges was pretty good. His lecture examples are VERY similar to the homework so finishing the homework is not hard. The hard part is fixing up your style.",
+    "tokens": 148
+  },
+  {
+    "chunk_id": "CSE_142-r1-c1",
+    "course": "CSE 142",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse142",
+    "professor": "Stuart Reges",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 2,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "10hrs/week",
+    "textbook": "Optional",
+    "text": "The hard part is fixing up your style.",
+    "tokens": 8
+  },
+  {
+    "chunk_id": "CSE_142-r2-c0",
+    "course": "CSE 142",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse142",
+    "professor": "Wortzman",
+    "term": "Winter 2020",
+    "ratings": {
+      "overall": 2,
+      "difficulty": 2,
+      "interest": 3,
+      "usefulness": 5
+    },
+    "grade": "C+",
+    "workload": "8hrs/week",
+    "textbook": "Yes",
+    "text": "Grading curve is borderline ridiculous but that's kinda to be expected from a weed out class.",
+    "tokens": 16
+  },
+  {
+    "chunk_id": "CSE_143-r0-c0",
+    "course": "CSE 143",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse143",
+    "professor": "Stuart Reges",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 3,
+      "difficulty": 1,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "12hrs/week",
+    "textbook": "Optional",
+    "text": "It is definitely harder than 142 but I found it to be more rewarding once I finish a homework assignment and the code works. The homework takes a lot of effort, and the grading is even more strict since you have to remember all the style rules from 142 plus there are new ones added every week. Start your homework early. It's pretty much impossible to get a high grade otherwise. Doing the homework early also gives you time to go to office hours if you don't understand something. I was at office hours every other week and it always saved me a few style points by asking the TA's. Reges is pretty good at explaining stuff in my experience. His lecture examples are almost a copy of the homework assignments so that's super helpful.",
+    "tokens": 135
+  },
+  {
+    "chunk_id": "CSE_143-r0-c1",
+    "course": "CSE 143",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse143",
+    "professor": "Stuart Reges",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 3,
+      "difficulty": 1,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "12hrs/week",
+    "textbook": "Optional",
+    "text": "His lecture examples are almost a copy of the homework assignments so that's super helpful.",
+    "tokens": 15
+  },
+  {
+    "chunk_id": "CSE_143-r1-c0",
+    "course": "CSE 143",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse143",
+    "professor": "Brett Wortzman",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 5,
+      "usefulness": 4
+    },
+    "grade": "A-",
+    "workload": "8hrs/week",
+    "textbook": "Yes",
+    "text": "Great class with a really great teacher. Lecture itself isn't mandatory since it's recorded but you will still need to understand the concepts to do well on the assignments. Final grade is made up of weekly checkpoints and two cumulative assessments, which you can use your own study resources on. Brett always takes the time to answer questions and really works hard to help students understand the material. Don't take this class without any coding experience. Try doing something like CodingBat or Practice-It outside of class to gain more experience with Java. Go to office hours. Brett is an awesome professor. His RMP is very accurate. He is passionate about the class and his lecturing style is very clear and effective, with the weekly checkpoints he does really helping you feel that you are learning something and getting something out of the class. His TAs are also incredibly helpful.",
+    "tokens": 149
+  },
+  {
+    "chunk_id": "CSE_143-r1-c1",
+    "course": "CSE 143",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse143",
+    "professor": "Brett Wortzman",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 5,
+      "usefulness": 4
+    },
+    "grade": "A-",
+    "workload": "8hrs/week",
+    "textbook": "Yes",
+    "text": "His TAs are also incredibly helpful.",
+    "tokens": 6
+  },
+  {
+    "chunk_id": "CSE_143-r2-c0",
+    "course": "CSE 143",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse143",
+    "professor": "Stuart Reges",
+    "term": "Winter 2018",
+    "ratings": {
+      "overall": 3,
+      "difficulty": 2,
+      "interest": 4,
+      "usefulness": 4
+    },
+    "grade": "B+",
+    "workload": "9hrs/week",
+    "textbook": "Yes",
+    "text": "Ok, let’s go ahead and get started with the review…this was a good class with a knowledgeable professor, even with his eccentric out-of-class personality in mind, but the grading curve kinda ruins it. This class is known for being a weedout for intended CSE or STEM majors, but the content is interesting and useful still despite its competitive nature. I think getting a 3.3 in it is part of what led to me majoring in Math because I couldn’t get into CS or Info after 3 apps. Go to office hours. With either Reges or the TAs. They help a lot. Take the CSE 390 seminar attached to it (if it’s still offered) if you wanna deepen your CS knowledge. Also remember to clean up your code for those style points. I took 142 with Wortzman (got an A) and I liked him too. I honestly prefer him to Reges.",
+    "tokens": 150
+  },
+  {
+    "chunk_id": "CSE_143-r2-c1",
+    "course": "CSE 143",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse143",
+    "professor": "Stuart Reges",
+    "term": "Winter 2018",
+    "ratings": {
+      "overall": 3,
+      "difficulty": 2,
+      "interest": 4,
+      "usefulness": 4
+    },
+    "grade": "B+",
+    "workload": "9hrs/week",
+    "textbook": "Yes",
+    "text": "I honestly prefer him to Reges.",
+    "tokens": 6
+  },
+  {
+    "chunk_id": "CSE_373-r0-c0",
+    "course": "CSE 373",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse373",
+    "professor": "Kasey Champion",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 2,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A",
+    "workload": "Heavy",
+    "textbook": "Optional",
+    "text": "Very interesting class with a high team-based workload. Content is essential for students looking to go into software engineering/development roles. Surprisingly this class prepared me well for higher INFO coursework, in my honest opinion. Kasey Champion is awesome. She's organized, really understanding, and cares so much about her students. The class could be challenging at times, but her explanations made the material easier to understand. Get a good group. Go to office hours.",
+    "tokens": 73
+  },
+  {
+    "chunk_id": "CSE_373-r0-c1",
+    "course": "CSE 373",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse373",
+    "professor": "Kasey Champion",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 2,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A",
+    "workload": "Heavy",
+    "textbook": "Optional",
+    "text": "Go to office hours.",
+    "tokens": 4
+  },
+  {
+    "chunk_id": "CSE_373-r1-c0",
+    "course": "CSE 373",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse373",
+    "professor": "Kasey Champion",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 3,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "12hrs/week",
+    "textbook": "Optional",
+    "text": "Best class I've taken at UW. Essential if you want to do anything relating to software engineering. Kasey Champion was probably the best teacher I've had at UW so far.",
+    "tokens": 30
+  },
+  {
+    "chunk_id": "CSE_373-r1-c1",
+    "course": "CSE 373",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse373",
+    "professor": "Kasey Champion",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 3,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "12hrs/week",
+    "textbook": "Optional",
+    "text": "Kasey Champion was probably the best teacher I've had at UW so far.",
+    "tokens": 13
+  },
+  {
+    "chunk_id": "CSE_373-r2-c0",
+    "course": "CSE 373",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse373",
+    "professor": "Kevin Lin",
+    "term": "2020",
+    "ratings": {
+      "overall": 2,
+      "difficulty": 2,
+      "interest": 3,
+      "usefulness": 5
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "This is the most important CS course, make sure you soak everything in because you'll need it when preparing for interviews find good teammates to avoid you doing all the works by yourself just before the deadline. Take CSE 373 with Kasey Champion if you can",
+    "tokens": 46
+  },
+  {
+    "chunk_id": "CSE_373-r2-c1",
+    "course": "CSE 373",
+    "source_url": "https://www.ratemycourses.io/uw/course/cse373",
+    "professor": "Kevin Lin",
+    "term": "2020",
+    "ratings": {
+      "overall": 2,
+      "difficulty": 2,
+      "interest": 3,
+      "usefulness": 5
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "Take CSE 373 with Kasey Champion if you can",
+    "tokens": 9
+  },
+  {
+    "chunk_id": "ECON_200-r0-c0",
+    "course": "ECON 200",
+    "source_url": "https://www.ratemycourses.io/uw/course/econ200",
+    "professor": "Melissa Knox",
+    "term": "Fall 2023",
+    "ratings": {
+      "overall": 3,
+      "difficulty": 5,
+      "interest": 2,
+      "usefulness": 3
+    },
+    "grade": "A+",
+    "workload": null,
+    "textbook": "Yes",
+    "text": "Economics is an interesting topic and should be treated as such. Unfortunately, while the topics covered in the class are interesting and lend to a greater appreciation of economic concepts, they lack substance and rigor. Many course topics feel uninspired and are, in some cases, made more difficult by the obsession with avoiding calculus as if it were a plague. Rates of change are not discussed properly, and extreme lengths are taken to ensure that every function you see is linear. Overall, the course is fine, but there are clear problems that will likely not be addressed due to the course being a requirement for certain majors that do not take calculus. Prof. Knox is okay, but teaches straight from the textbook and often acts like a high school teacher.",
+    "tokens": 130
+  },
+  {
+    "chunk_id": "ECON_200-r0-c1",
+    "course": "ECON 200",
+    "source_url": "https://www.ratemycourses.io/uw/course/econ200",
+    "professor": "Melissa Knox",
+    "term": "Fall 2023",
+    "ratings": {
+      "overall": 3,
+      "difficulty": 5,
+      "interest": 2,
+      "usefulness": 3
+    },
+    "grade": "A+",
+    "workload": null,
+    "textbook": "Yes",
+    "text": "Knox is okay, but teaches straight from the textbook and often acts like a high school teacher.",
+    "tokens": 17
+  },
+  {
+    "chunk_id": "ECON_200-r1-c0",
+    "course": "ECON 200",
+    "source_url": "https://www.ratemycourses.io/uw/course/econ200",
+    "professor": "Joshua Jacobs",
+    "term": "Fall 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 5,
+      "usefulness": 4
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "This was the first time I learned any economics and I thought the subject was interesting. The economics analysis essays took me a lot of time and frustrated me. I went line by line translating my news article's information to microeconomics analysis (course content). I went to office hours, and consulted OWRC tutors. Both essays took me a while. However, I felt I not only learned a lot, but also helped myself retain information through the process of writing the essays. I maybe could have used a better method of writing them though. (I mention the essays because Professor Jacobs assigns these for both ECON 200 and ECON 201.) Workload wise, I am not sure about the actual workload because I have some time management troubles. I turned in multiple late assignments for the other classes I...read more Usefulness: I understand why this is taught because it helps you to understand the theory of how businesses, markets, and economies (more later on in macroeconomics) work. I would recommend to read before the lecture. I only once went to the lecture without reading the textbook and found it hard to understand. Assignment HeavyExam Heavy",
+    "tokens": 193
+  },
+  {
+    "chunk_id": "ECON_200-r1-c1",
+    "course": "ECON 200",
+    "source_url": "https://www.ratemycourses.io/uw/course/econ200",
+    "professor": "Joshua Jacobs",
+    "term": "Fall 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 5,
+      "usefulness": 4
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "Assignment HeavyExam Heavy",
+    "tokens": 3
+  },
+  {
+    "chunk_id": "ECON_200-r2-c0",
+    "course": "ECON 200",
+    "source_url": "https://www.ratemycourses.io/uw/course/econ200",
+    "professor": "Vinod Dharmarajan",
+    "term": "Winter 2019",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 4,
+      "interest": 3,
+      "usefulness": 5
+    },
+    "grade": "A",
+    "workload": "12hrs/week",
+    "textbook": "Yes",
+    "text": "Vinod is a great instructor! He really cares about his students and gives good feedback on homeworks! He is also very accessible outside of classroom. Whenever you have questions during a lecture, raise your hand and ask. He takes participation as part of the grade so you will be benefited as well. Definitly go to his office hour!",
+    "tokens": 58
+  },
+  {
+    "chunk_id": "ECON_200-r2-c1",
+    "course": "ECON 200",
+    "source_url": "https://www.ratemycourses.io/uw/course/econ200",
+    "professor": "Vinod Dharmarajan",
+    "term": "Winter 2019",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 4,
+      "interest": 3,
+      "usefulness": 5
+    },
+    "grade": "A",
+    "workload": "12hrs/week",
+    "textbook": "Yes",
+    "text": "Definitly go to his office hour!",
+    "tokens": 6
+  },
+  {
+    "chunk_id": "ENGL_131-r0-c0",
+    "course": "ENGL 131",
+    "source_url": "https://www.ratemycourses.io/uw/course/engl131",
+    "professor": "Butler",
+    "term": "Winter 2020",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 4,
+      "interest": 4,
+      "usefulness": 5
+    },
+    "grade": "A",
+    "workload": "5hrs/week",
+    "textbook": "Yes",
+    "text": "Foundational college writing course, I found very helpful. 3 main papers with shorter assignments throughout the quarter and you compile everything into a portfolio at the end of the quarter. Had a grad student teacher and she was great",
+    "tokens": 39
+  },
+  {
+    "chunk_id": "ENGL_131-r0-c1",
+    "course": "ENGL 131",
+    "source_url": "https://www.ratemycourses.io/uw/course/engl131",
+    "professor": "Butler",
+    "term": "Winter 2020",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 4,
+      "interest": 4,
+      "usefulness": 5
+    },
+    "grade": "A",
+    "workload": "5hrs/week",
+    "textbook": "Yes",
+    "text": "Had a grad student teacher and she was great",
+    "tokens": 9
+  },
+  {
+    "chunk_id": "ENGL_131-r1-c0",
+    "course": "ENGL 131",
+    "source_url": "https://www.ratemycourses.io/uw/course/engl131",
+    "professor": "Dan Zhu",
+    "term": "Fall 2017",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 5,
+      "interest": 3,
+      "usefulness": 4
+    },
+    "grade": "A+",
+    "workload": "6hrs/week",
+    "textbook": "No",
+    "text": "Not very hard. Low output class with three essays that teach you foundational college writing skills, a few worksheets, and a portfolio with reflective statements about the main papers. This class was very accessible for first-year students and was a good example of how first-year writing in college SHOULD be taught. I think Prof. Zhu was very helpful if you go in during office hours and ask for one on one help with essays. She gives really good writing advice. My professor was very nice but she doesn't teach at UW anymore (she has a full-time job in Student Life, I think).",
+    "tokens": 102
+  },
+  {
+    "chunk_id": "ENGL_131-r1-c1",
+    "course": "ENGL 131",
+    "source_url": "https://www.ratemycourses.io/uw/course/engl131",
+    "professor": "Dan Zhu",
+    "term": "Fall 2017",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 5,
+      "interest": 3,
+      "usefulness": 4
+    },
+    "grade": "A+",
+    "workload": "6hrs/week",
+    "textbook": "No",
+    "text": "My professor was very nice but she doesn't teach at UW anymore (she has a full-time job in Student Life, I think).",
+    "tokens": 22
+  },
+  {
+    "chunk_id": "ENGL_131-r2-c0",
+    "course": "ENGL 131",
+    "source_url": "https://www.ratemycourses.io/uw/course/engl131",
+    "professor": "Kaelie Giffel",
+    "term": "Winter 2019",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 5,
+      "interest": 4,
+      "usefulness": 3
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "Not a challenging course, but depending on the professor, can definitely be interesting. Kaelie was extremely helpful and made the material unique and engaging. She allowed us to explore various mediums and genres (music, fiction and nonfiction, poetry, etc.) which was refreshing. Take advantage of the opportunities to get feedback and use that feedback to make improvements to your writing!",
+    "tokens": 60
+  },
+  {
+    "chunk_id": "ENGL_131-r2-c1",
+    "course": "ENGL 131",
+    "source_url": "https://www.ratemycourses.io/uw/course/engl131",
+    "professor": "Kaelie Giffel",
+    "term": "Winter 2019",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 5,
+      "interest": 4,
+      "usefulness": 3
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "Take advantage of the opportunities to get feedback and use that feedback to make improvements to your writing!",
+    "tokens": 18
+  },
+  {
+    "chunk_id": "MATH_125-r0-c0",
+    "course": "MATH 125",
+    "source_url": "https://www.ratemycourses.io/uw/course/math125",
+    "professor": "Farbod Shokrieh",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 4,
+      "usefulness": 4
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "The nature of MATH 125 is hard to change, but Professor Shokrieh made it easier. Clear lectures and easy exams. I've been managed to score above 90% on all three exams. Very clear and digestible lectures. Caring. Practice and start your HW early. Quiz HeavyExam Heavy",
+    "tokens": 46
+  },
+  {
+    "chunk_id": "MATH_125-r0-c1",
+    "course": "MATH 125",
+    "source_url": "https://www.ratemycourses.io/uw/course/math125",
+    "professor": "Farbod Shokrieh",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 4,
+      "usefulness": 4
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "Quiz HeavyExam Heavy",
+    "tokens": 3
+  },
+  {
+    "chunk_id": "MATH_125-r1-c0",
+    "course": "MATH 125",
+    "source_url": "https://www.ratemycourses.io/uw/course/math125",
+    "professor": "Yu Yuan",
+    "term": "Fall 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 2,
+      "interest": 3,
+      "usefulness": 3
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "It's an ok course, try to get a good professor and make sure to read the textbook. Integral techniques make up the entirety of the course, everything is integrals. Professor Yuan definitely takes some getting used to (both in his style of presenting material and accent) but if you manage to understand what he's getting at, he offers very solid understanding of the material. He'll go through why the formulas are they way they are in detail. Sometimes it gets a bit difficult to grasp it because he'll go at a fast pace or make some logical leaps but he'll put up his notes and the textbook chapter can help fill in the gaps. He also has lectures before a midterm/final reviewing concepts and problems and then lectures after grades come out going over the test, which is really nice. He says it himself, but at the very least preview the textbook chapter before every lecture. Assignment HeavyExam Heavy",
+    "tokens": 159
+  },
+  {
+    "chunk_id": "MATH_125-r1-c1",
+    "course": "MATH 125",
+    "source_url": "https://www.ratemycourses.io/uw/course/math125",
+    "professor": "Yu Yuan",
+    "term": "Fall 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 2,
+      "interest": 3,
+      "usefulness": 3
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "Assignment HeavyExam Heavy",
+    "tokens": 3
+  },
+  {
+    "chunk_id": "MATH_125-r2-c0",
+    "course": "MATH 125",
+    "source_url": "https://www.ratemycourses.io/uw/course/math125",
+    "professor": "Neal Koblitz",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 1,
+      "difficulty": 2,
+      "interest": 1,
+      "usefulness": 3
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "Ridiculously difficult quizzes but manageable homework as long as you pay attention. Get ready to earn a mediocre grade with this teacher. You just have to work hard. Professor Koblitz barely explains concepts in lecture & has a tendency to skip over steps when showing an example problem which makes it all the more confusing. Not suited for remote learning at all.",
+    "tokens": 62
+  },
+  {
+    "chunk_id": "MATH_125-r2-c1",
+    "course": "MATH 125",
+    "source_url": "https://www.ratemycourses.io/uw/course/math125",
+    "professor": "Neal Koblitz",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 1,
+      "difficulty": 2,
+      "interest": 1,
+      "usefulness": 3
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "Not suited for remote learning at all.",
+    "tokens": 7
+  },
+  {
+    "chunk_id": "MATH_126-r0-c0",
+    "course": "MATH 126",
+    "source_url": "https://www.ratemycourses.io/uw/course/math126",
+    "professor": "Andrew Loveless",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 4,
+      "usefulness": 3
+    },
+    "grade": "A-",
+    "workload": "14hrs/week",
+    "textbook": "Yes",
+    "text": "The curve for this class is harsh, but less harsh than maths 124 and 125 - some people say it's the easiest of the 3 to get good grades in and I agree with that, it was my highest scoring maths class at UW. Exams are not as hard as the other two profs I had - it's easier to study for maths exams with Loveless because of all the resources he gives you. Use Loveless' website (https://sites.math.washington.edu/~aloveles/) for any help, Andrew Loveless is an awesome maths teacher who really cares about the subject. Cares about students and does what he can to help them pass. I highly recommend him.",
+    "tokens": 110
+  },
+  {
+    "chunk_id": "MATH_126-r0-c1",
+    "course": "MATH 126",
+    "source_url": "https://www.ratemycourses.io/uw/course/math126",
+    "professor": "Andrew Loveless",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 4,
+      "usefulness": 3
+    },
+    "grade": "A-",
+    "workload": "14hrs/week",
+    "textbook": "Yes",
+    "text": "I highly recommend him.",
+    "tokens": 4
+  },
+  {
+    "chunk_id": "MATH_126-r1-c0",
+    "course": "MATH 126",
+    "source_url": "https://www.ratemycourses.io/uw/course/math126",
+    "professor": "Nichifor",
+    "term": "Fall 2018",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 1,
+      "interest": 3,
+      "usefulness": 4
+    },
+    "grade": "B",
+    "workload": "15hrs/week",
+    "textbook": "Yes",
+    "text": "Prof. Nichifor is a very nice instructor and the content of the course is pretty good as well. However, the curve is very harsh. Your grade in this course heavily depends on how your classmates are doing. Thus, I would not recommend taking this course during autumn quarters because there will be many smart people who used AP to skip 124 and 125, this will make the curve very very bad. I got the same percentage score as my friend with the same instructor (she took it during spring), she got a 3.5 and I got a 3.0...",
+    "tokens": 98
+  },
+  {
+    "chunk_id": "MATH_126-r1-c1",
+    "course": "MATH 126",
+    "source_url": "https://www.ratemycourses.io/uw/course/math126",
+    "professor": "Nichifor",
+    "term": "Fall 2018",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 1,
+      "interest": 3,
+      "usefulness": 4
+    },
+    "grade": "B",
+    "workload": "15hrs/week",
+    "textbook": "Yes",
+    "text": "I got the same percentage score as my friend with the same instructor (she took it during spring), she got a 3.5 and I got a 3.0...",
+    "tokens": 27
+  },
+  {
+    "chunk_id": "MATH_126-r2-c0",
+    "course": "MATH 126",
+    "source_url": "https://www.ratemycourses.io/uw/course/math126",
+    "professor": "Andrew Loveless",
+    "term": "Fall 2020",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 2,
+      "interest": 5,
+      "usefulness": 4
+    },
+    "grade": "A+",
+    "workload": "15hrs/week",
+    "textbook": "Yes",
+    "text": "This class is manageable and not too overwhelming. Although the contents can be difficult, doing practice exams will help you do well on the real exams. Dr. Loveless is an amazing professor who really cares about his students. Definitely take this class with him. Grind practice exams. Beware of the harsh curve. Andrew Loveless",
+    "tokens": 54
+  },
+  {
+    "chunk_id": "MATH_126-r2-c1",
+    "course": "MATH 126",
+    "source_url": "https://www.ratemycourses.io/uw/course/math126",
+    "professor": "Andrew Loveless",
+    "term": "Fall 2020",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 2,
+      "interest": 5,
+      "usefulness": 4
+    },
+    "grade": "A+",
+    "workload": "15hrs/week",
+    "textbook": "Yes",
+    "text": "Andrew Loveless",
+    "tokens": 2
+  },
+  {
+    "chunk_id": "PHYS_121-r0-c0",
+    "course": "PHYS 121",
+    "source_url": "https://www.ratemycourses.io/uw/course/phys121",
+    "professor": "Gray Rybka",
+    "term": "Fall 2023",
+    "ratings": {
+      "overall": 3,
+      "difficulty": 2,
+      "interest": 4,
+      "usefulness": 3
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "The PHYS 12x sequence seems to be designed to maximize nuisance to the student. There are many small assignments due at bursts, creating a logistical nightmare, and the textbook website is horribly inconvenient, often unintentionally hiding information that is necessary for problems. Additionally, use of calculus is very minimal despite the course requiring calculus (as opposed to the algebra-based PHYS 11x sequence), with the course often opting for more confusing, algebraic explanations. Professor Rybka is a good professor, unfortunately hampered by the design of the PHYS 12x sequence at UW. Participation HeavyAssignment HeavyExam Heavy",
+    "tokens": 94
+  },
+  {
+    "chunk_id": "PHYS_121-r0-c1",
+    "course": "PHYS 121",
+    "source_url": "https://www.ratemycourses.io/uw/course/phys121",
+    "professor": "Gray Rybka",
+    "term": "Fall 2023",
+    "ratings": {
+      "overall": 3,
+      "difficulty": 2,
+      "interest": 4,
+      "usefulness": 3
+    },
+    "grade": null,
+    "workload": null,
+    "textbook": null,
+    "text": "Participation HeavyAssignment HeavyExam Heavy",
+    "tokens": 4
+  },
+  {
+    "chunk_id": "PHYS_121-r1-c0",
+    "course": "PHYS 121",
+    "source_url": "https://www.ratemycourses.io/uw/course/phys121",
+    "professor": "Jason Detwiler",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 3,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "Heavy",
+    "textbook": "Yes",
+    "text": "Phys 121 is a weed out series but the practical knowledge of mechanics makes it a very useful course regardless of major or grade. This is the single physics class that will actually discuss the tangible physics of every day life. Utilize office hours, study partners, and pay attention in tutorial. Jason Detwiler made the class very fun by being resourceful during office hours and easy to reach out to for questions.",
+    "tokens": 72
+  },
+  {
+    "chunk_id": "PHYS_121-r1-c1",
+    "course": "PHYS 121",
+    "source_url": "https://www.ratemycourses.io/uw/course/phys121",
+    "professor": "Jason Detwiler",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 3,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "Heavy",
+    "textbook": "Yes",
+    "text": "Jason Detwiler made the class very fun by being resourceful during office hours and easy to reach out to for questions.",
+    "tokens": 21
+  },
+  {
+    "chunk_id": "PHYS_121-r2-c0",
+    "course": "PHYS 121",
+    "source_url": "https://www.ratemycourses.io/uw/course/phys121",
+    "professor": "David Smith",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 1,
+      "difficulty": 1,
+      "interest": 1,
+      "usefulness": 4
+    },
+    "grade": "A-",
+    "workload": "10hrs/week",
+    "textbook": "Yes",
+    "text": "I think I only did well in this class (got a 3.6, which is very good on the curve) because I got an A in AP Physics in high school. Very poorly structured and disorganized class with an exam policy that really didn't mesh well with my learning style. Textbook was so confusing and very different from Prof. Smith's lectures. He's nice and helpful but not a very good teacher. Try to take this class at a community college (before or while you're at UW) or take AP Physics C to get early credit before coming to UW. You're doing yourself a favor avoiding these difficult weedouts. The intro physics classes are known to be the worst at UW.",
+    "tokens": 119
+  },
+  {
+    "chunk_id": "PHYS_121-r2-c1",
+    "course": "PHYS 121",
+    "source_url": "https://www.ratemycourses.io/uw/course/phys121",
+    "professor": "David Smith",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 1,
+      "difficulty": 1,
+      "interest": 1,
+      "usefulness": 4
+    },
+    "grade": "A-",
+    "workload": "10hrs/week",
+    "textbook": "Yes",
+    "text": "The intro physics classes are known to be the worst at UW.",
+    "tokens": 12
+  },
+  {
+    "chunk_id": "PSYCH_210-r0-c0",
+    "course": "PSYCH 210",
+    "source_url": "https://www.ratemycourses.io/uw/course/psych210",
+    "professor": "Nicole K Mcnichols",
+    "term": "Spring 2020",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 5,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A",
+    "workload": null,
+    "textbook": "No",
+    "text": "Awesome class, everyone should take it. Useful and interesting Great prof",
+    "tokens": 11
+  },
+  {
+    "chunk_id": "PSYCH_210-r0-c1",
+    "course": "PSYCH 210",
+    "source_url": "https://www.ratemycourses.io/uw/course/psych210",
+    "professor": "Nicole K Mcnichols",
+    "term": "Spring 2020",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 5,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A",
+    "workload": null,
+    "textbook": "No",
+    "text": "Great prof",
+    "tokens": 2
+  },
+  {
+    "chunk_id": "PSYCH_210-r1-c0",
+    "course": "PSYCH 210",
+    "source_url": "https://www.ratemycourses.io/uw/course/psych210",
+    "professor": "Nicole Mcnichols",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 5,
+      "interest": 5,
+      "usefulness": 4
+    },
+    "grade": "A+",
+    "workload": null,
+    "textbook": "Yes",
+    "text": "This was an awesome class! Very interesting with a fun way of learning. Professor is very kind and easy to talk to. I can’t think of anything bad about the class.",
+    "tokens": 31
+  },
+  {
+    "chunk_id": "PSYCH_210-r1-c1",
+    "course": "PSYCH 210",
+    "source_url": "https://www.ratemycourses.io/uw/course/psych210",
+    "professor": "Nicole Mcnichols",
+    "term": "Spring 2021",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 5,
+      "interest": 5,
+      "usefulness": 4
+    },
+    "grade": "A+",
+    "workload": null,
+    "textbook": "Yes",
+    "text": "I can’t think of anything bad about the class.",
+    "tokens": 9
+  },
+  {
+    "chunk_id": "PSYCH_210-r2-c0",
+    "course": "PSYCH 210",
+    "source_url": "https://www.ratemycourses.io/uw/course/psych210",
+    "professor": "Nicole Mcnichols",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 5,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "6hrs/week",
+    "textbook": "Yes",
+    "text": "Graded on 3 exams, lots of homework, and extra credit (which there's a lot of). The exams were fairly easy, but the material can sometimes trip you up and be on something randomly mentioned for a second during the lectures. There are lots of extra credit opportunities that make it easy to get a good grade. Class content is very interesting. Highly recommend. McNichols is the only prof who teaches this class and is a very caring teacher. She's very easy to get along with, and everything you learn in her class and all the assignments are very straightforward.",
+    "tokens": 99
+  },
+  {
+    "chunk_id": "PSYCH_210-r2-c1",
+    "course": "PSYCH 210",
+    "source_url": "https://www.ratemycourses.io/uw/course/psych210",
+    "professor": "Nicole Mcnichols",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 5,
+      "difficulty": 5,
+      "interest": 5,
+      "usefulness": 5
+    },
+    "grade": "A+",
+    "workload": "6hrs/week",
+    "textbook": "Yes",
+    "text": "She's very easy to get along with, and everything you learn in her class and all the assignments are very straightforward.",
+    "tokens": 21
+  },
+  {
+    "chunk_id": "STAT_311-r0-c0",
+    "course": "STAT 311",
+    "source_url": "https://www.ratemycourses.io/uw/course/stat311",
+    "professor": "Tamre Cardoso",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 2,
+      "difficulty": 3,
+      "interest": 1,
+      "usefulness": 4
+    },
+    "grade": "A",
+    "workload": "3hrs/week",
+    "textbook": "Optional",
+    "text": "This is easy material that should be a breeze for any UW student to sail through however this Tamre somehow manages to make it the most difficult class. Be prepared for very dry lectures, all she does is read from her power point slides. The R portion of this class is a joke, just go to her office hours and you'll probably get most answers. Do the practice worksheets before quizzes and exams. They help a lot. I didn't like Tamre's teaching very much. She's too disorganized. And she needs to respect the fact that not everyone is a cheater and that using online resources isn't really cheating.",
+    "tokens": 108
+  },
+  {
+    "chunk_id": "STAT_311-r0-c1",
+    "course": "STAT 311",
+    "source_url": "https://www.ratemycourses.io/uw/course/stat311",
+    "professor": "Tamre Cardoso",
+    "term": "Spring 2019",
+    "ratings": {
+      "overall": 2,
+      "difficulty": 3,
+      "interest": 1,
+      "usefulness": 4
+    },
+    "grade": "A",
+    "workload": "3hrs/week",
+    "textbook": "Optional",
+    "text": "And she needs to respect the fact that not everyone is a cheater and that using online resources isn't really cheating.",
+    "tokens": 21
+  },
+  {
+    "chunk_id": "STAT_311-r1-c0",
+    "course": "STAT 311",
+    "source_url": "https://www.ratemycourses.io/uw/course/stat311",
+    "professor": "William Brown",
+    "term": "Summer 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 4,
+      "usefulness": 5
+    },
+    "grade": "B+",
+    "workload": "6hrs/week",
+    "textbook": "Yes",
+    "text": "Labs are easy points but homework is quite difficult. You’ll learn how to use R whether you’re new to it or programming in general. Stats is challenging subject. Mini-exams were closed book this quarter, so expect studying. Will Brown did a pretty good job explaining each concept. This was the class that I went to office hours the most, so go to them! They are super helpful when it comes to hard homework questions. Use the textbook to your advantage and watch/attend lectures.",
+    "tokens": 83
+  },
+  {
+    "chunk_id": "STAT_311-r1-c1",
+    "course": "STAT 311",
+    "source_url": "https://www.ratemycourses.io/uw/course/stat311",
+    "professor": "William Brown",
+    "term": "Summer 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 3,
+      "interest": 4,
+      "usefulness": 5
+    },
+    "grade": "B+",
+    "workload": "6hrs/week",
+    "textbook": "Yes",
+    "text": "Use the textbook to your advantage and watch/attend lectures.",
+    "tokens": 9
+  },
+  {
+    "chunk_id": "STAT_311-r2-c0",
+    "course": "STAT 311",
+    "source_url": "https://www.ratemycourses.io/uw/course/stat311",
+    "professor": "Ranjini Grove",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 5,
+      "interest": 3,
+      "usefulness": 2
+    },
+    "grade": "A-",
+    "workload": "3hrs/week",
+    "textbook": "Yes",
+    "text": "Pretty similar to AP stats. I liked the prof but I just didn't see how applicable this class would be to a professional environment. Still interesting information and fun easy learning. Also nice to learn the basics of coding in R. Go to office hours and spend time by yourself memorizing the nuances of each formula and pieces of code Professor Grove gets a solid thumbs up from me. Very accomadating also willing and wanting to help students. She really cares about learning everyone's name which I appreciated as well.",
+    "tokens": 90
+  },
+  {
+    "chunk_id": "STAT_311-r2-c1",
+    "course": "STAT 311",
+    "source_url": "https://www.ratemycourses.io/uw/course/stat311",
+    "professor": "Ranjini Grove",
+    "term": "Winter 2021",
+    "ratings": {
+      "overall": 4,
+      "difficulty": 5,
+      "interest": 3,
+      "usefulness": 2
+    },
+    "grade": "A-",
+    "workload": "3hrs/week",
+    "textbook": "Yes",
+    "text": "She really cares about learning everyone's name which I appreciated as well.",
+    "tokens": 12
+  }
+]

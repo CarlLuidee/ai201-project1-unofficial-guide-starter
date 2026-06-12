@@ -1,0 +1,57 @@
+Class Ratings
+2Bad Class
+3Avg. Difficulty
+2Boring
+2Barely Useful
+
+Prof: Natsuhara / Spring 2021
+
+Aug 24, 2021
+Comments on the course
+
+Admittedly, her lectures are good.
+The grading system in SP21 is different from usual; It adopted the ESNU system for the first time(E-excellent, S-satisfactory, N-not yet, U-unread). There are 8 projects, and students were required to get 6 Es in each dimention, or they would be likely to receive a grade below 3.5. You need to be perfect in one dimention to receive an E, if there is even one minor mistake, you will receive a lower S grade. The worst part is, both making 1 and 5 mistakes result in an S, so even I corrected most errors and made a resubmission, many times my grades did not change and still be S. Finally, the instructor intentionally divide everyone's grades apart, although there is not so much difference in students' ability.
+Advice
+
+If CSE 142 is not a required course for you, do not take it.
+If you just want to gain some fundamental programming knowledge, java is not the best programming language--C and C++ are better options, and you may find some online resources about them.
+If you decide to take 142, be prepared to receive a much lower grade than expected.
+Grade: C+Workload: 15hrs/weekTextbook Use: No
+
+
+Class Ratings
+4Good Class
+2Hard
+5Very Interesting
+5Very Useful
+
+Prof: Stuart Reges / Winter 2021
+
+Aug 24, 2021
+Comments on the course
+
+The material is very interesting and useful, and the lectures are designed for people like me who had never written a line of code before taking the class. However, the curve in this class is kind of harsh, and the grading is very nitpicky. I think it's unfortunate that an introductory course punishes GPA of people who just want to see what programming is like.
+Advice
+
+Do your homework early so you have time to sit and stare at your code until you hopefully find something you can correct. Use practice-it before exams when that becomes a thing again.
+
+If you just want an introduction to programming and have no plans of pursuing a CS-related major, maybe consider CSE 160 instead.
+Suggest a professor
+
+Reges was pretty good. His lecture examples are VERY similar to the homework so finishing the homework is not hard. The hard part is fixing up your style.
+Grade: A+Workload: 10hrs/weekTextbook Use: Optional
+
+
+Class Ratings
+2Bad Class
+2Hard
+3Kinda Interesting
+5Very Useful
+
+Prof: Wortzman / Winter 2020
+
+Aug 23, 2021
+Comments on the course
+
+Grading curve is borderline ridiculous but that's kinda to be expected from a weed out class. 
+Grade: C+Workload: 8hrs/weekTextbook Use: Yes

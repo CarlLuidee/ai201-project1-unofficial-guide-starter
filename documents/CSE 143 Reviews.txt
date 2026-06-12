@@ -1,0 +1,67 @@
+Class Ratings
+3OK Class
+1Very Hard
+5Very Interesting
+5Very Useful
+
+Prof: Stuart Reges / Spring 2021
+
+Aug 24, 2021
+Comments on the course
+
+It is definitely harder than 142 but I found it to be more rewarding once I finish a homework assignment and the code works. The homework takes a lot of effort, and the grading is even more strict since you have to remember all the style rules from 142 plus there are new ones added every week.
+Advice
+
+Start your homework early. It's pretty much impossible to get a high grade otherwise. Doing the homework early also gives you time to go to office hours if you don't understand something. I was at office hours every other week and it always saved me a few style points by asking the TA's.
+Suggest a professor
+
+Reges is pretty good at explaining stuff in my experience. His lecture examples are almost a copy of the homework assignments so that's super helpful.
+Grade: A+Workload: 12hrs/weekTextbook Use: Optional
+
+
+
+Class Ratings
+4Good Class
+3Avg. Difficulty
+5Very Interesting
+4Useful
+
+Prof: Brett Wortzman / Spring 2021
+
+Aug 23, 2021
+Comments on the course
+
+Great class with a really great teacher. Lecture itself isn't mandatory since it's recorded but you will still need to understand the concepts to do well on the assignments. Final grade is made up of weekly checkpoints and two cumulative assessments, which you can use your own study resources on. Brett always takes the time to answer questions and really works hard to help students understand the material.
+Advice
+
+Don't take this class without any coding experience. Try doing something like CodingBat or Practice-It outside of class to gain more experience with Java. Go to office hours.
+Suggest a professor
+
+Brett is an awesome professor. His RMP is very accurate. He is passionate about the class and his lecturing style is very clear and effective, with the weekly checkpoints he does really helping you feel that you are learning something and getting something out of the class. His TAs are also incredibly helpful.
+Grade: A-Workload: 8hrs/weekTextbook Use: Yes
+
+
+
+Class Ratings
+3OK Class
+2Hard
+4Interesting
+4Useful
+
+Prof: Stuart Reges / Winter 2018
+
+Aug 22, 2021
+Comments on the course
+
+Ok, let’s go ahead and get started with the review…this was a good class with a knowledgeable professor, even with his eccentric out-of-class personality in mind, but the grading curve kinda ruins it. This class is known for being a weedout for intended CSE or STEM majors, but the content is interesting and useful still despite its competitive nature. I think getting a 3.3 in it is part of what led to me majoring in Math because I couldn’t get into CS or Info after 3 apps. 
+Advice
+
+Go to office hours. With either Reges or the TAs. They help a lot. 
+
+Take the CSE 390 seminar attached to it (if it’s still offered) if you wanna deepen your CS knowledge. 
+
+Also remember to clean up your code for those style points. 
+Suggest a professor
+
+I took 142 with Wortzman (got an A) and I liked him too. I honestly prefer him to Reges. 
+Grade: B+Workload: 9hrs/weekTextbook Use: Yes
