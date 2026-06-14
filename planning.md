@@ -34,31 +34,37 @@ Course and professor reviews
 
 **Chunk size:**
 250 tokens
+
 **Overlap:**
-0 to 1
+0
+
 **Reasoning:**
 The student reviews are short in length (100-300 words), organized, and tend to be more concise, therefore chunk size does not require as many tokens and minimum to no overlap is needed to get the full context.
+
 ---
 
 ## Retrieval Approach
 
 **Embedding model:**
-text-embedding-3-large
+all-MiniLM-L6-v2
+
 **Top-k:**
 5 to 6 chunks
+
 **Production tradeoff reflection:**
 If costs weren't a factor, improving accuracy would be the highest priority.
+
 ---
 
 ## Evaluation Plan
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Does the professor mostly read from slides, or do they engage with the students? | The professor uses slides as a guide but they mostly interact with the students. Students often mention that they feel engaged during lectures. |
-| 2 | How much time do students typically need to prepare for the midterm and final exam? | It depends on the students' study habits. Most students report spending 6–10 hours preparing for each midterm and 12–20 hours for the final exam. |
-| 3 | What happens if a student misses several lectures? | Students say it's possible to catch up using posted slides and notes, but makes it harder to follow the class. |
-| 4 | What is the average time it takes the professor to respond to emails? | Students report receiving a response within 24 hours, but may take longer during holidays or around exam periods. |
-| 5 | How do students describe their experiences during office hours? | Students describe office hours as very welcoming and helpful. The professor takes time to make sure the student understands the course lessons. |
+| 1 | How do students describe the organization of assignments, deadlines, and course materials in the course? | Indicates whether assignments, deadlines, and course materials are clearly structured or confusing and difficult to navigate. |
+| 2 | What patterns appear in student feedback about the frequency and workload of assignments, quizzes, and deadlines in the course? | Report of the course workload, whether it is light, moderate, or heavy, based on course content. |
+| 3 | How do students evaluate the course instructor's ability to explain difficult concepts during lectures, discussions, or office hours? | Report of the instructor’s effectivenes at explaining the course material. |
+| 4 | What do student reviews indicate about the alignment between exams and the material covered in lectures, homework, and assigned readings in the course? | Reports of whether exams closely match course materials or feel disconnected from what was taught. |
+| 5 | To what extent do students feel the instructor helped offset issues with course structure, workload, textbook, or logistics in the course? | Signs of improvements in the learning experience despite challenges in the course. |
 
 ---
 

@@ -38,21 +38,21 @@ from pathlib import Path
 CHUNK_SIZE_TOKENS = 250   # target max tokens per chunk
 OVERLAP_SENTENCES = 1     # 0 or 1 sentence overlap between consecutive chunks
 
-DATA_DIR = Path("/mnt/user-data/uploads")
-OUTPUT_FILE = Path("/mnt/user-data/outputs/chunks.json")
+DATA_DIR = Path(__file__).parent / "documents"
+OUTPUT_FILE = Path(__file__).parent / "chunks.json"
 
 # Map filename stem → (display name, source URL)
 COURSE_META = {
-    "CSE_142_Reviews":  ("CSE 142",   "https://www.ratemycourses.io/uw/course/cse142"),
-    "CSE_143_Reviews":  ("CSE 143",   "https://www.ratemycourses.io/uw/course/cse143"),
-    "CSE_373_Reviews":  ("CSE 373",   "https://www.ratemycourses.io/uw/course/cse373"),
-    "ECON_200_Reviews": ("ECON 200",  "https://www.ratemycourses.io/uw/course/econ200"),
-    "ENGL_131_Reviews": ("ENGL 131",  "https://www.ratemycourses.io/uw/course/engl131"),
-    "MATH_125_Reviews": ("MATH 125",  "https://www.ratemycourses.io/uw/course/math125"),
-    "MATH_126_Reviews": ("MATH 126",  "https://www.ratemycourses.io/uw/course/math126"),
-    "PHYS_121_Reviews": ("PHYS 121",  "https://www.ratemycourses.io/uw/course/phys121"),
-    "PSYCH_210_Reviews":("PSYCH 210", "https://www.ratemycourses.io/uw/course/psych210"),
-    "STAT_311_Reviews": ("STAT 311",  "https://www.ratemycourses.io/uw/course/stat311"),
+    "CSE 142 Reviews":  ("CSE 142",   "https://www.ratemycourses.io/uw/course/cse142"),
+    "CSE 143 Reviews":  ("CSE 143",   "https://www.ratemycourses.io/uw/course/cse143"),
+    "CSE 373 Reviews":  ("CSE 373",   "https://www.ratemycourses.io/uw/course/cse373"),
+    "ECON 200 Reviews": ("ECON 200",  "https://www.ratemycourses.io/uw/course/econ200"),
+    "ENGL 131 Reviews": ("ENGL 131",  "https://www.ratemycourses.io/uw/course/engl131"),
+    "MATH 125 Reviews": ("MATH 125",  "https://www.ratemycourses.io/uw/course/math125"),
+    "MATH 126 Reviews": ("MATH 126",  "https://www.ratemycourses.io/uw/course/math126"),
+    "PHYS 121 Reviews": ("PHYS 121",  "https://www.ratemycourses.io/uw/course/phys121"),
+    "PSYCH 210 Reviews":("PSYCH 210", "https://www.ratemycourses.io/uw/course/psych210"),
+    "STAT 311 Reviews": ("STAT 311",  "https://www.ratemycourses.io/uw/course/stat311"),
 }
 
 # Rating label → field name

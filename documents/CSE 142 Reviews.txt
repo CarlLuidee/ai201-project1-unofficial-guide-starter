@@ -19,6 +19,7 @@ If you decide to take 142, be prepared to receive a much lower grade than expect
 Grade: C+Workload: 15hrs/weekTextbook Use: No
 
 
+
 Class Ratings
 4Good Class
 2Hard
@@ -42,6 +43,7 @@ Reges was pretty good. His lecture examples are VERY similar to the homework so 
 Grade: A+Workload: 10hrs/weekTextbook Use: Optional
 
 
+
 Class Ratings
 2Bad Class
 2Hard
@@ -55,3 +57,45 @@ Comments on the course
 
 Grading curve is borderline ridiculous but that's kinda to be expected from a weed out class. 
 Grade: C+Workload: 8hrs/weekTextbook Use: Yes
+
+
+
+Class Ratings
+4Good Class
+4Easy
+3Kinda Interesting
+4Useful
+
+Prof: Wortzman / Winter 2020
+
+Aug 23, 2021
+Comments on the course
+
+interesting and fun class
+
+good professor
+
+good class to take with no programming background. 
+Grade: A-Workload: 8hrs/weekTextbook Use: Yes
+
+
+
+Class Ratings
+4Good Class
+4Easy
+4Interesting
+4Useful
+
+Prof: Stuart Reges / Fall 2020
+
+Aug 23, 2021
+Comments on the course
+
+Remotely, this class was really good. No tests and much less busy work than I expected.  The grading scale and curve are honestly so messed and Professor Reges does dock off points for various silly things in HW assignments, which aren't really in the students' control, but I guess that's the case for all weedout classes here.
+Advice
+
+Rewatch lectures and ask questions. Revise your code as much as you can. Make sure to clean up your code to get those style points.
+Suggest a professor
+
+Professor Reges does an excellent job making sure you understand the material and the structure to his class is very organized. 
+Grade: AWorkload: 8hrs/weekTextbook Use: Yes
